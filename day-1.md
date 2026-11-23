@@ -1,5 +1,5 @@
 # Aprendizado Diario
-
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ## Planejamento Matinal
 - [ ] Confira o [blog do GitHub](https://github.blog/) para obter ideias de temas.
 - [ ] Saiba mais sobre o [GitHub Pages](https://skills.github.com/#first-day-on-github).
